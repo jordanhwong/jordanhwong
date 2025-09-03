@@ -21,6 +21,7 @@ Milpitas, CA, USA
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jordanhwong/)
+- [Personal Site](https://jordanhwong.vercel.app/)
 
 ---
 
